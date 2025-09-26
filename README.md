@@ -1,5 +1,5 @@
 ## About me
-I work as a software tester and I'm passionate about self-education.
+I work as a QA Engineer and I'm passionate about self-education.
 
 #### 🌐 [LinkedIn profile](https://www.linkedin.com/in/aneta-lorenzova/)
 
